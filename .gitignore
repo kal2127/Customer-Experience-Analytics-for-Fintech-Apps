@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Data files (do not track large datasets)
+data/*.csv
+data/*.xlsx
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# PostgreSQL configuration
+*.sql # if you save configuration details here
