@@ -1,0 +1,160 @@
+{
+    "parameters": {
+        "K_clusters": 10,
+        "TFIDF_max_df": 0.85,
+        "TFIDF_min_df": 5,
+        "TFIDF_ngram_range": "(1, 2)"
+    },
+    "topics": {
+        "Topic 1": {
+            "keywords": [
+                "payment",
+                "bill payment",
+                "bill",
+                "receipt",
+                "utility",
+                "transaction",
+                "make",
+                "like",
+                "service",
+                "atm"
+            ],
+            "inferred_theme": null
+        },
+        "Topic 2": {
+            "keywords": [
+                "used",
+                "ever used",
+                "ever",
+                "always",
+                "best",
+                "time",
+                "make",
+                "account",
+                "apk",
+                "worst"
+            ],
+            "inferred_theme": null
+        },
+        "Topic 3": {
+            "keywords": [
+                "work",
+                "doesnt",
+                "doesnt work",
+                "work properly",
+                "good",
+                "properly",
+                "always",
+                "bad",
+                "problem",
+                "even"
+            ],
+            "inferred_theme": null
+        },
+        "Topic 4": {
+            "keywords": [
+                "good",
+                "banking",
+                "use",
+                "thanks",
+                "experience",
+                "cbebirr",
+                "get",
+                "previous",
+                "simple",
+                "much"
+            ],
+            "inferred_theme": null
+        },
+        "Topic 5": {
+            "keywords": [
+                "application",
+                "thank",
+                "good application",
+                "good",
+                "nice application",
+                "best",
+                "nice",
+                "need",
+                "time",
+                "application ever"
+            ],
+            "inferred_theme": null
+        },
+        "Topic 6": {
+            "keywords": [
+                "best",
+                "nan",
+                "great",
+                "wow",
+                "like",
+                "working",
+                "\u1260\u1323\u121d",
+                "bad",
+                "love",
+                "ethiopia"
+            ],
+            "inferred_theme": null
+        },
+        "Topic 7": {
+            "keywords": [
+                "nice",
+                "nice one",
+                "like",
+                "apps",
+                "one",
+                "use",
+                "tank",
+                "\u121d\u122d\u1325",
+                "perfect",
+                "ahead"
+            ],
+            "inferred_theme": null
+        },
+        "Topic 8": {
+            "keywords": [
+                "please",
+                "banking",
+                "worst",
+                "ever",
+                "fix",
+                "please fix",
+                "worst ever",
+                "system",
+                "worst banking",
+                "working"
+            ],
+            "inferred_theme": null
+        },
+        "Topic 9": {
+            "keywords": [
+                "use",
+                "easy",
+                "easy use",
+                "fast",
+                "simple",
+                "nice easy",
+                "nice",
+                "best",
+                "simple use",
+                "easy fast"
+            ],
+            "inferred_theme": null
+        },
+        "Topic 10": {
+            "keywords": [
+                "good",
+                "update",
+                "time",
+                "service",
+                "need",
+                "cant",
+                "new",
+                "open",
+                "money",
+                "account"
+            ],
+            "inferred_theme": null
+        }
+    }
+}
